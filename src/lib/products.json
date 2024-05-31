@@ -1,0 +1,74 @@
+[
+  {
+    "id": 12345,
+    "name": "Gummistiefel",
+    "price": 1300,
+    "description": "Strapazierfähige Gummistiefel, perfekt für regnerische Tage. Halten Ihre Füße trocken und bequem."
+  },
+  {
+    "id": 23456,
+    "name": "Handschuhe",
+    "price": 500,
+    "description": "Wärmende Handschuhe für kalte Wintertage. Hergestellt aus hochwertigem Material, um Ihre Hände warm zu halten."
+  },
+  {
+    "id": 34567,
+    "name": "Hemd",
+    "price": 1300,
+    "description": "Ein stilvolles Hemd für verschiedene Anlässe. Hochwertige Verarbeitung und bequeme Passform."
+  },
+  {
+    "id": 45678,
+    "name": "Jeans",
+    "price": 4000,
+    "description": "Robuste Jeanshose, ideal für den Alltag. Klassisches Design und hoher Tragekomfort."
+  },
+  {
+    "id": 56789,
+    "name": "Mütze",
+    "price": 500,
+    "description": "Eine gemütliche Mütze, um Ihren Kopf warm zu halten. Perfekt für kalte Tage im Freien."
+  },
+  {
+    "id": 67890,
+    "name": "Pullover",
+    "price": 1700,
+    "description": "Ein warmer Pullover mit stilvollem Design. Ideal für Herbst- und Wintertage."
+  },
+  {
+    "id": 78901,
+    "name": "Regenjacke",
+    "price": 2500,
+    "description": "Wasserdichte Regenjacke, schützt vor Regen und Wind. Perfekt für Outdoor-Aktivitäten."
+  },
+  {
+    "id": 89012,
+    "name": "Rucksack",
+    "price": 15000,
+    "description": "Geräumiger Rucksack mit vielen Taschen. Ideal für Reisen und den täglichen Gebrauch."
+  },
+  {
+    "id": 90123,
+    "name": "Sandalen",
+    "price": 700,
+    "description": "Bequeme Sandalen für den Sommer. Leicht und luftig, perfekt für entspannte Spaziergänge."
+  },
+  {
+    "id": 12344,
+    "name": "Shorts",
+    "price": 2000,
+    "description": "Luftige Shorts für warme Tage. Bequem und stilvoll, geeignet für Freizeitaktivitäten."
+  },
+  {
+    "id": 23455,
+    "name": "T-Shirt",
+    "price": 1000,
+    "description": "Klassisches T-Shirt, vielseitig und bequem. Ein Must-Have in jedem Kleiderschrank."
+  },
+  {
+    "id": 34566,
+    "name": "Winterjacke",
+    "price": 6000,
+    "description": "Warm gefütterte Winterjacke für extreme Kälte. Stilvoll und funktional für den Winter."
+  }
+]
