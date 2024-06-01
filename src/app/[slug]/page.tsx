@@ -3,16 +3,19 @@
 import { Button } from "@/components/Button";
 import { ProductItem } from "@/components/ProductItem";
 import { Product } from "@/lib/product";
+import { useCart } from "@/lib/useCart";
 import { useQuery } from "@/lib/useQuery";
 import { notFound } from "next/navigation";
 
 const ProductView = ({ product }: { product: Product }) => {
-  const { name, price, description } = product;
+  const { cartStore } = useCart();
   return (
     <div className="flex flex-col gap-y-6">
       <ProductItem product={product} />
       <p>
-        <Button>In den Warenkorb</Button>
+        <Button onClick={() => cartStore.change(product)}>
+          In den Warenkorb
+        </Button>
       </p>
     </div>
   );
